@@ -30,7 +30,7 @@ export const FloatingNavbar = ({
     if (typeof current === 'number') {
       const direction = current! - scrollYProgress.getPrevious()!;
 
-      if (scrollYProgress.get() < 0.05) {
+      if (scrollYProgress.get() < 0.0) {
         setVisible(false);
       } else {
         if (direction < 0) {

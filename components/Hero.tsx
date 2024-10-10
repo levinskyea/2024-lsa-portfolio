@@ -39,8 +39,8 @@ const Hero = () => {
             Hi I&apos;m Levin, an Innovator from the Philippines.
           </p> */}
 
-          <h2 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-            Welcome to My Portfolio
+          <h2 className="uppercase tracking-widest text-sm text-center text-blue-100 max-w-80">
+            Bridging Code, Quality, and Design
           </h2>
 
           <a href="#about">
